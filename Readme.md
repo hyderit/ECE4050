@@ -12,4 +12,4 @@ Version 1.0
 
 ## Author
 
-* [**Hayder Hamandi, Ph. D.**](http://www.linkedin.com/in/hayder-hamandi-ph-d-3356b8b4) - [Wayne State University](http://www.wayne.edu)
+* [**Hayder Hamandi, Ph.D.**](http://www.linkedin.com/in/hayder-hamandi-ph-d-3356b8b4) - [Wayne State University](http://www.wayne.edu)
